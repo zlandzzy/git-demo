@@ -6,3 +6,4 @@ hello vim!
 4
 5555
 6666
+hot-fix test
