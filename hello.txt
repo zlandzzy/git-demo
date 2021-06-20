@@ -8,3 +8,4 @@ hello vim!
 6666
 master test
 change success
+change git-lhc
