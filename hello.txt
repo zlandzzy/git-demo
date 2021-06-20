@@ -7,3 +7,4 @@ hello vim!
 5555
 6666
 master test
+change success
